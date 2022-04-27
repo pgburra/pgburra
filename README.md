@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Phani
-- 👀 I’m interested in building exciting s/w to make customers life easy
+- 👀 I’m interested in building exciting s/w to make customers' life easy
 - 🌱 I’m currently learning AI/ML & Entrepreneurship
 
 <!---
